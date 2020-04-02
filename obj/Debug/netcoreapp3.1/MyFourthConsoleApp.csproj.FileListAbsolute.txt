@@ -1,0 +1,11 @@
+C:\projects\MyFourthConsoleApp\bin\Debug\netcoreapp3.1\MyFourthConsoleApp.exe
+C:\projects\MyFourthConsoleApp\bin\Debug\netcoreapp3.1\MyFourthConsoleApp.deps.json
+C:\projects\MyFourthConsoleApp\bin\Debug\netcoreapp3.1\MyFourthConsoleApp.runtimeconfig.json
+C:\projects\MyFourthConsoleApp\bin\Debug\netcoreapp3.1\MyFourthConsoleApp.runtimeconfig.dev.json
+C:\projects\MyFourthConsoleApp\bin\Debug\netcoreapp3.1\MyFourthConsoleApp.dll
+C:\projects\MyFourthConsoleApp\bin\Debug\netcoreapp3.1\MyFourthConsoleApp.pdb
+C:\projects\MyFourthConsoleApp\obj\Debug\netcoreapp3.1\MyFourthConsoleApp.csprojAssemblyReference.cache
+C:\projects\MyFourthConsoleApp\obj\Debug\netcoreapp3.1\MyFourthConsoleApp.AssemblyInfoInputs.cache
+C:\projects\MyFourthConsoleApp\obj\Debug\netcoreapp3.1\MyFourthConsoleApp.AssemblyInfo.cs
+C:\projects\MyFourthConsoleApp\obj\Debug\netcoreapp3.1\MyFourthConsoleApp.dll
+C:\projects\MyFourthConsoleApp\obj\Debug\netcoreapp3.1\MyFourthConsoleApp.pdb
